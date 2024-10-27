@@ -42,3 +42,14 @@ October 26, 2023
 - CF 1100-rated[[Submission Link](https://codeforces.com/contest/1899/submission/288101758)]
 - CF 1100-rated[[Submission Link](https://codeforces.com/contest/1891/submission/288108900)]
 - Solved 1 Question in CF Div 2 [[A Submission Link](https://codeforces.com/contest/2027/submission/288112871)]
+
+### Day 5
+
+October 27, 2023
+
+- Solved 1 Question in Leetcode Weekly Contest [[Submission Link](https://leetcode.com/contest/weekly-contest-421/submissions/detail/1434810850/)]
+- Leetcode POTD Count Square Submatrices with All Ones [[Submission Link](https://leetcode.com/submissions/detail/1434876848/)]
+- Upsolve CF Div3 [[E Submission Link](https://codeforces.com/contest/2033/submission/288256183)]
+- Upsolve CF Div2 [[B Submission Link](https://codeforces.com/contest/2027/submission/288258111)]
+- CF 1100-rated [[Submission Link](https://codeforces.com/contest/1873/submission/288279844)]
+- CF 1200-rated [[Submission Link](https://codeforces.com/contest/1914/submission/288351458)]
