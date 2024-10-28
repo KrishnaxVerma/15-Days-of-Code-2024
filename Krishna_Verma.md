@@ -53,3 +53,13 @@ October 27, 2023
 - Upsolve CF Div2 [[B Submission Link](https://codeforces.com/contest/2027/submission/288258111)]
 - CF 1100-rated [[Submission Link](https://codeforces.com/contest/1873/submission/288279844)]
 - CF 1200-rated [[Submission Link](https://codeforces.com/contest/1914/submission/288351458)]
+
+### Day 6
+
+October 27, 2023
+
+- Leetcode POTD Longest Square Streak in an Array [[Submission Link](https://leetcode.com/submissions/detail/1435918147/)]
+- CF 1200-rated [[Submission Link](https://codeforces.com/contest/1909/submission/288429580)]
+- CF 1200-rated [[Submission Link](https://codeforces.com/contest/1872/submission/288433859)]
+- Trying to make Drumkit website by my own for frontend practice (html, css, js)
+- Solved 2 Questions in CF Div2 [[A Submission Link](https://codeforces.com/contest/2026/submission/288522540)] [[B Submission Link](https://codeforces.com/contest/2026/submission/288559976)]
