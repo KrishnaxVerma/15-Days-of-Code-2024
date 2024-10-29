@@ -56,10 +56,20 @@ October 27, 2023
 
 ### Day 6
 
-October 27, 2023
+October 28, 2023
 
 - Leetcode POTD Longest Square Streak in an Array [[Submission Link](https://leetcode.com/submissions/detail/1435918147/)]
 - CF 1200-rated [[Submission Link](https://codeforces.com/contest/1909/submission/288429580)]
 - CF 1200-rated [[Submission Link](https://codeforces.com/contest/1872/submission/288433859)]
 - Trying to make Drumkit website by my own for frontend practice (html, css, js)
 - Solved 2 Questions in CF Div2 [[A Submission Link](https://codeforces.com/contest/2026/submission/288522540)] [[B Submission Link](https://codeforces.com/contest/2026/submission/288559976)]
+
+### Day 7
+
+October 29, 2023
+
+- Leetcode POTD Maximum Number of Moves in a Grid [[Submission Link](https://leetcode.com/submissions/detail/1436956663/)]
+- Added Animation (using gsap) in Drumkit (Completed) 
+- Upsolve Div2 [[C Submission Link](https://codeforces.com/contest/2026/submission/288671374)]
+- CF 1200-rated [[Submission Link](https://codeforces.com/contest/1857/submission/288709240)]
+- CF 1200-rated [[Submission Link](https://codeforces.com/contest/1832/submission/288769282)]
