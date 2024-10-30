@@ -73,3 +73,9 @@ October 29, 2023
 - Upsolve Div2 [[C Submission Link](https://codeforces.com/contest/2026/submission/288671374)]
 - CF 1200-rated [[Submission Link](https://codeforces.com/contest/1857/submission/288709240)]
 - CF 1200-rated [[Submission Link](https://codeforces.com/contest/1832/submission/288769282)]
+- 
+### Day 8
+
+October 30, 2023
+
+- Solved 1 Question in Codechef Starter 158 Div2 [[ XORSMALL](https://www.codechef.com/viewsolution/1102848931)]
