@@ -78,4 +78,11 @@ October 29, 2023
 
 October 30, 2023
 
-- Solved 1 Question in Codechef Starter 158 Div2 [[ XORSMALL](https://www.codechef.com/viewsolution/1102848931)]
+- Solved 1 Question in Codechef Starter 158 Div2 [[XORSMALL](https://www.codechef.com/viewsolution/1102848931)]
+
+### Day 9
+
+October 31, 2023
+
+- Upsolve Codechef Div 2 [[Multiply 2 to Minimize](https://www.codechef.com/viewsolution/1103052539)]
+  
