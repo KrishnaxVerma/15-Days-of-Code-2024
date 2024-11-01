@@ -86,3 +86,9 @@ October 31, 2023
 
 - Upsolve Codechef Div 2 [[Multiply 2 to Minimize](https://www.codechef.com/viewsolution/1103052539)]
   
+### Day 10
+
+November 1, 2023
+
+- Leetcode POTD Delete Characters to Make Fancy String [[Submission Link](https://leetcode.com/submissions/detail/1439596705/)]
+- Solve 2 Questions in CF Div 2 [[A Submission Link](https://codeforces.com/contest/2032/submission/289202959)] [[B Submission Link](https://codeforces.com/contest/2032/submission/289272533)]
