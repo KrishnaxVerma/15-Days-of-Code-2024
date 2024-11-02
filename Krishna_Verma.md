@@ -92,3 +92,13 @@ November 1, 2023
 
 - Leetcode POTD Delete Characters to Make Fancy String [[Submission Link](https://leetcode.com/submissions/detail/1439596705/)]
 - Solve 2 Questions in CF Div 2 [[A Submission Link](https://codeforces.com/contest/2032/submission/289202959)] [[B Submission Link](https://codeforces.com/contest/2032/submission/289272533)]
+
+### Day 11
+
+November 2, 2023
+
+- Leetcode POTD Circular Sentence [[Submission Link](https://leetcode.com/submissions/detail/1440456466/)]
+- Upsolve CF Div2 [[C Submission Link](https://codeforces.com/contest/2032/submission/289359785)]
+- CF 1200-rated [[Submission Link](https://codeforces.com/contest/1808/submission/289429349)]
+- CF 1200-rated [[Submission Link](https://codeforces.com/contest/1793/submission/289434441)]
+- Solved 2 Question in CF Div3 [[A Submission Link](https://codeforces.com/contest/2036/submission/289466587)] [[B Submission Link](https://codeforces.com/contest/2036/submission/289478189)]
