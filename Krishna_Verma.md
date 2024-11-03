@@ -102,3 +102,13 @@ November 2, 2023
 - CF 1200-rated [[Submission Link](https://codeforces.com/contest/1808/submission/289429349)]
 - CF 1200-rated [[Submission Link](https://codeforces.com/contest/1793/submission/289434441)]
 - Solved 2 Question in CF Div3 [[A Submission Link](https://codeforces.com/contest/2036/submission/289466587)] [[B Submission Link](https://codeforces.com/contest/2036/submission/289478189)]
+
+### Day 12
+
+November 3, 2023
+
+- Solved 1 Question in Leetcode Weekly Contest [[Submission Link](https://leetcode.com/contest/weekly-contest-422/submissions/detail/1441286880/)]
+- Leetcode POTD Rotate String [[Submission Link](https://leetcode.com/submissions/detail/1441362843/)]
+- Upsolve CF Div2 [[C Submission Link](https://codeforces.com/contest/2036/submission/289723791)] [[D Submission Link](https://codeforces.com/contest/2036/submission/289783288)]
+- CF 1200-rated [[Submission Link](https://codeforces.com/contest/1742/submission/289802730)]
+- CF 1200-rated [[Submission Link](https://codeforces.com/contest/1734/submission/289811334)]
