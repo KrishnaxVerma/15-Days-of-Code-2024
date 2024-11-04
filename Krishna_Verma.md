@@ -112,3 +112,12 @@ November 3, 2023
 - Upsolve CF Div2 [[C Submission Link](https://codeforces.com/contest/2036/submission/289723791)] [[D Submission Link](https://codeforces.com/contest/2036/submission/289783288)]
 - CF 1200-rated [[Submission Link](https://codeforces.com/contest/1742/submission/289802730)]
 - CF 1200-rated [[Submission Link](https://codeforces.com/contest/1734/submission/289811334)]
+
+### Day 13
+
+November 4, 2023
+
+- Leetcode POTD String Compression III [[Submission Link](https://leetcode.com/submissions/detail/1442759365/)]
+- CF 1200-rated [[Submission Link](https://codeforces.com/problemset/submission/1729/289934898)]
+- CF 1200-rated [[Submission Link](https://codeforces.com/problemset/submission/1704/289941400)]
+- CF 1200-rated [[Submission Link](https://codeforces.com/problemset/submission/1703/289966670)]
