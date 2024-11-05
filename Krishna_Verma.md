@@ -121,3 +121,12 @@ November 4, 2023
 - CF 1200-rated [[Submission Link](https://codeforces.com/problemset/submission/1729/289934898)]
 - CF 1200-rated [[Submission Link](https://codeforces.com/problemset/submission/1704/289941400)]
 - CF 1200-rated [[Submission Link](https://codeforces.com/problemset/submission/1703/289966670)]
+
+### Day 14
+
+November 5, 2023
+
+- Leetcode POTD [[Submission Link](https://leetcode.com/submissions/detail/1443716513/)]
+- CF 1200-rated [[Submission Link](https://codeforces.com/contest/1692/submission/290055616)]
+- CF 1200-rated [[Submission Link](https://codeforces.com/contest/1679/submission/290062009)]
+- CF 1200-rated [[Submission Link](https://codeforces.com/problemset/submission/1635/290128548)]
